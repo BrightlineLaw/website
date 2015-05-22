@@ -3,4 +3,3 @@ deployment:
 		branch: master
 		heroku:
 			appname: brightline
-			
