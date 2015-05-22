@@ -1,0 +1,6 @@
+deployment:
+	stagin:
+		branch: master
+		heroku:
+			appname: brightline
+			
